@@ -3,10 +3,12 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
-  Twitter:
-  Location:
+  co-founder: Tim O'Brien
+  Site: http://tim-ob.com
+  Twitter: timohbee
+  Location: Brighton, MA
+
+  co-founder: Joe Kelley
 
 /* THANKS */
   Names (& URL):
